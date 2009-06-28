@@ -9,8 +9,8 @@ Source0:	http://download.tuxfamily.org/qet/tags/20090627/%{name}-%{version}-src.
 # Source0-md5:	615d2463178689741cd2791c6e3deacd
 Patch0:		%{name}-prefix.patch
 URL:		http://qelectrotech.org/
-# uncomment needed libraries
 BuildRequires:	QtCore-devel
+BuildRequires:	QtNetwork-devel
 BuildRequires:	QtXml-devel
 BuildRequires:	qt4-build >= 4.3.3-3
 BuildRequires:	qt4-qmake >= 4.3.3-3
