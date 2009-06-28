@@ -2,7 +2,7 @@ Summary:	QElectroTech helps you to design electric schematics
 Summary(hu.UTF-8):	QElectroTech-hel elektromos áramköröket tervezhetsz
 Name:		qelectrotech
 Version:	0.2
-Release:	0.3
+Release:	1
 License:	GPL v2
 Group:		X11/Applications/Science
 Source0:	http://download.tuxfamily.org/qet/tags/20090627/%{name}-%{version}-src.tar.gz
