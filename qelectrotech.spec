@@ -11,6 +11,7 @@ Patch0:		%{name}-prefix.patch
 URL:		http://qelectrotech.org/
 BuildRequires:	QtCore-devel
 BuildRequires:	QtNetwork-devel
+BuildRequires:	QtSvg-devel
 BuildRequires:	QtXml-devel
 BuildRequires:	qt4-build >= 4.3.3-3
 BuildRequires:	qt4-qmake >= 4.3.3-3
